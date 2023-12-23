@@ -33,6 +33,35 @@ const Join = () => {
                 about Decentralized Autonomous Organisations, And gain access to
                 the SGI community for free
               </h6>
+              <div className="pt-5">
+                <div className="tick-images d-flex gap-3 ">
+                  <img src="asset/tick.svg" alt="" />
+                  <p>
+                    Free E-book: Revolutionizing Real Estate: How Decentralized
+                    Autonomous Organizations are Transforming the Industry is
+                    normally worth 24,19 USDT
+                  </p>
+                </div>
+                <div className="tick-images d-flex gap-3 ">
+                  <img src="asset/tick.svg" alt="" />
+                  <p>
+                    Lifetime user Access to myhoc platform is normally worth 250
+                    USDT
+                  </p>
+                </div>
+                <div className="tick-images d-flex gap-3 ">
+                  <img src="asset/tick.svg" alt="" />
+                  <p>
+                    Lifetime access to SGI Academy basic normal price 34.95 USDT
+                    per month. Get access to coaching or mentorship in personal,
+                    business, financial, and more
+                  </p>
+                </div>
+                <div className="tick-images d-flex gap-3 ">
+                  <img src="asset/tick.svg" alt="" />
+                  <p>HOC rewards 22.222 HOC</p>
+                </div>
+              </div>
             </div>
           </div>
           <div className="col-sm-5   pt-5 ">

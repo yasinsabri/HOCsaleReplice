@@ -53,3 +53,15 @@ body a{
   font-weight: 700;
   border-radius: 5px;
 }
+.tick-images img{
+  width: 4%;
+
+}
+.tick-images p{
+  color: whitesmoke;
+}
+.grey-color{
+  background-color: #1E2329 !important;
+  border-radius: 10px !important;
+  
+}
