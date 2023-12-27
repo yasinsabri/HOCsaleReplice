@@ -1,7 +1,7 @@
 body {
   background-color: #000000ff;
 }
-body a{
+body a {
   text-decoration: none !important;
 }
 .logo-img img {
@@ -32,36 +32,57 @@ body a{
     rgba(3, 3, 3, 1) 100%,
     rgba(3, 3, 3, 1) 100%
   );
-
 }
-.chacha-image img{
+.chacha-image img {
   width: 120% !important;
 }
-.yellow-text{
+.yellow-text {
   color: #fcd535ff;
 }
-.white-text{
+.white-text {
   color: whitesmoke;
   font-size: 17px;
 }
-.whale-btn{
+.whale-btn {
   color: black;
   font-size: 25px;
-  padding: 3px  15px;
+  padding: 3px 15px;
   border: none;
-  background-color: #fcd535ff ;
+  background-color: #fcd535ff;
   font-weight: 700;
   border-radius: 5px;
 }
-.tick-images img{
+.tick-images img {
   width: 4%;
-
 }
-.tick-images p{
+.tick-images p {
   color: whitesmoke;
 }
-.grey-color{
-  background-color: #1E2329 !important;
+.grey-color {
+  background-color: #1e2329 !important;
   border-radius: 10px !important;
-  
+}
+.discount-bg {
+  background: linear-gradient(
+      90deg,
+      rgba(113, 76, 3, 0.808) 0%,
+      rgba(0, 0, 0, 1) 100%
+    ),
+    url(../public/asset/bgcover.png);
+    border-radius: 10px;
+    background-size: cover;
+    
+}
+.whale-btn1{
+  color: black;
+  font-size: 25px;
+  padding: 8px 75px;
+  border: none;
+  background-color: #fcd535ff;
+  font-weight: 700;
+  border-radius: 5px;
+
+}
+.dist span{
+  color: #fcd535ff;
 }
