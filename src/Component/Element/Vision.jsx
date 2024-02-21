@@ -3,7 +3,7 @@ import React from "react";
 const Vision = () => {
   return (
     <React.Fragment>
-      <div className="container pt-5">
+      <div className="container pt-5 pb-5">
         <div className="row">
           <div className="col-sm-6">
             <div>

@@ -69,11 +69,10 @@ body a {
       rgba(0, 0, 0, 1) 100%
     ),
     url(../public/asset/bgcover.png);
-    border-radius: 10px;
-    background-size: cover;
-    
+  border-radius: 10px;
+  background-size: cover;
 }
-.whale-btn1{
+.whale-btn1 {
   color: black;
   font-size: 25px;
   padding: 8px 75px;
@@ -81,8 +80,31 @@ body a {
   background-color: #fcd535ff;
   font-weight: 700;
   border-radius: 5px;
-
 }
-.dist span{
+.dist span {
   color: #fcd535ff;
+}
+.Buymore {
+  border-radius: 15px;
+  background: linear-gradient(
+    268deg,
+    rgba(3, 169, 244, 1) 0%,
+    rgba(52, 53, 47, 1) 0%,
+    rgba(147, 160, 51, 1) 50%,
+    rgba(107, 107, 103, 1) 91%
+  );
+}
+.Buymore-heading {
+  color: #fcd535ff;
+  font-size: 50px;
+  font-weight: 500;
+  font-family: Exo\2, sans-serif !important;
+}
+.buymore-details {
+  color: whitesmoke;
+  font-size: 20px;
+  text-align: justify;
+  text-align: start;
+  font-family: Exo\2, sans-serif !important;
+  word-spacing: 0.3em;
 }
